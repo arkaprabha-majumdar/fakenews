@@ -7,10 +7,10 @@ to take up this topic and try to get rid of the extensive fake news problem in t
 
 **Why we need the fake news detection technology?**
 Fake news spread lies ,more readers shrug at the truth.
-1.This area is now also a research area , many research papers were published
-2.Google is taking initiative by funding 1000 ,1500$ to research groups
-3.People have an idea of fake news but often times real news can be mistakenly considered a fake
-4.Now we will look at the  machine learning model and how to implement a solution to rectify the problem.
+1. This area is now also a research area , many research papers were published
+2. Google is taking initiative by funding 1000 ,1500$ to research groups
+3. People have an idea of fake news but often times real news can be mistakenly considered a fake
+4. Now we will look at the  machine learning model and how to implement a solution to rectify the problem.
 
 **THE DATASET::**
 1327 rows × 17 columns
