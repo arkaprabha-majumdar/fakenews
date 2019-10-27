@@ -1,5 +1,6 @@
 # fakenews
-Project - Create a classifier to separate fake news from real news
+###Project - Create a classifier to separate fake news from real news
+
 Google Initiative seminar by the Dept. Of Cultural & Media Studies,CURAJ on the 18th of January,2019 has inspired us 
 to take up this topic and try to get rid of the extensive fake news problem in today’s media.
 
